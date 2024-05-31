@@ -43,10 +43,14 @@ This repository is for AVS data sharing
 
 ###Text Features
 
-[BLIP2_txtFeature+CLIP_ViT-B_32_txtFeature+imagebind_txtfeature](
+[BLIP2_txtFeature+CLIP_ViT-B_32_txtFeature+imagebind_txtfeature](https://portland-my.sharepoint.com/:u:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EUqSt0qV8XVFrO3QiAUy87YB2ixpXyyN3fBuwzrgrFxzBw?e=4RDWkG)
 
 ###Video Features
 
-[pyresnext-101_rbps13k,flatten0_output,os+pyresnet-152_imagenet11k,flatten0_output,os+CLIP_ViT-B_32_vidFeature+BLIP2_vidFeature+imagebind_vidfeature](
+[pyresnext-101_rbps13k,flatten0_output,os+pyresnet-152_imagenet11k,flatten0_output,os+CLIP_ViT-B_32_vidFeature+BLIP2_vidFeature+imagebind_vidfeature](https://portland-my.sharepoint.com/:u:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/Ef4SH5ZjNEFDuP0hXstNLPwBpsnwEfnlRoWY3HkNmNTeMg?e=lw3Evo)
 
-[mean_slowfast+mean_swintrans](
+
+[mean_slowfast+mean_swintrans](https://portland-my.sharepoint.com/:u:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EauTBFUZjJhFi42CJPTj4fcBQD8wFSUlnbj3n4tSBdSvCw?e=ni0Y45)
+
+
+
