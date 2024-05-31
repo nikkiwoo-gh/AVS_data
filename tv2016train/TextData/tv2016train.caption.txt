@@ -1,0 +1,370 @@
+tv2016train_video1#1 Amazon-Text with chinese glyphs
+tv2016train_video1#2 amazon and chinese text are displayed
+tv2016train_video3#1 In a car 3 chinese men move their arms
+tv2016train_video3#2 at night 3 chinese boys speak and move their hands in the car
+tv2016train_video4#1 On a podium 2 men in jackets argue with each other
+tv2016train_video4#2 multiple persons present a play on a stage
+tv2016train_video5#1 In a sports hall 4 european men jumping on a spring board and play with a basketball
+tv2016train_video5#2 in the daytime, 4 sportsman run in the sports hall while they hold a basketball and jump to score it
+tv2016train_video6#1 On a meadow 1 european girl in orange clothes run and failed to do an athletic performance
+tv2016train_video6#2 in the daytime, a woman with orange shirt in an open space with Grass runs and trys to jump, but she falls to the ground
+tv2016train_video7#1 A men are holding a tub that explodes while another man is holding a stick close to it.
+tv2016train_video7#2 Man on the street is holding a barrel and falls down
+tv2016train_video8#1 Black man with something white at his lip is saying something.
+tv2016train_video8#2 A black man is speaking with white cream on his lips in a dark room
+tv2016train_video9#1 A group of men in sports cloths jumps behind a cup.
+tv2016train_video9#2 Football players are dancing beside a trophy
+tv2016train_video10#1 a woman sings a song smiling.
+tv2016train_video10#2 an asian woman is moving her lips and smiles
+tv2016train_video11#1 a black  man is talking while flashlights are blinking.
+tv2016train_video11#2 A black man is smiling and speaking
+tv2016train_video12#1 An asian woman is holding a red beaker saying something.
+tv2016train_video12#2 An asian woman is looking into a red cup
+tv2016train_video13#1 A naked man is dancing on a stage.
+tv2016train_video13#2 An asian man is shaking his leg and flexing his upper body on a stage
+tv2016train_video14#1 A cat is licking a baby's head.
+tv2016train_video14#2 A cat is licking a human baby's head in its bed
+tv2016train_video15#1 A man is talking quickly.
+tv2016train_video15#2 A man is speaking and grimacing
+tv2016train_video16#1 While a man is playing piano an ugly mask appears.
+tv2016train_video16#2 A man is playing a keyboard
+tv2016train_video17#1 Some kids at a half-pipe are making stunts with scooter.
+tv2016train_video17#2 A man is scooting in a skaterpark
+tv2016train_video18#1 A black man is coming out of a supermarket shelf.
+tv2016train_video18#2 A man lies in a supermarket shelf
+tv2016train_video19#1 A woman is singing accompanied by a piano inside a room.
+tv2016train_video19#2 A group of people stands around a piano in a dark room
+tv2016train_video20#1 Cars are passing by a wet street on a cloudy day.
+tv2016train_video20#2 Cars on a street in the countryside move from one side to the other
+tv2016train_video21#1 A young man and woman with guitar inside a room are talking.
+tv2016train_video21#2 A man and a woman speak while holding a guitar
+tv2016train_video22#1 A young girl embraces a woman.
+tv2016train_video22#2 A woman is embraced by a girl
+tv2016train_video23#1 A man is touching the curls of a black woman in a car while talking with each other.
+tv2016train_video23#2 A black woman moves back and forth in a car
+tv2016train_video24#1 A man with a tablet is tumbling down to the floor inside of a restaurant.
+tv2016train_video24#2 A woman falls over in a restaurant at night
+tv2016train_video25#1 A black boy is looking up and down in a strange way.
+tv2016train_video25#2 A boy in a crowd of people leans from the left to the right
+tv2016train_video26#1 A cat inside a room is meowing.
+tv2016train_video26#2 a cat looks up meowing
+tv2016train_video27#1 An american football playing is tumbling down to the football court.
+tv2016train_video27#2 A football player catches a football while falling in a football stadium
+tv2016train_video28#1 A woman in a brown costume is dancing outside at different locations.
+tv2016train_video28#2 A woman moves her arms in a garden
+tv2016train_video29#1 Two men are walking at the corner of a sports field while sprinklers are spreading water in the background.
+tv2016train_video29#2 Men walk on green grass in a stadium
+tv2016train_video30#1 An asian looking man is dancing strangely in front of a group of people.
+tv2016train_video30#2 Men dance on a stage
+tv2016train_video31#1 A group of persons standing next to each other in a room is talking with subtitles.
+tv2016train_video31#2 A group of people stands around
+tv2016train_video32#1 A man in a dessert is screaming something and the lamb in his hand is imitating him.
+tv2016train_video32#2 A man holds up a goat in a desert
+tv2016train_video33#1 a group of asian pupils is playing a lesson with smartphones.
+tv2016train_video33#2 An asian boy stands in front of a blackboard in a classroom
+tv2016train_video34#1 A person is jumping out of a burning car which is  jumping from a hill into a pont.
+tv2016train_video34#2 a burning car flies in a forest
+tv2016train_video35#1 A group of young women is singing inside a house.
+tv2016train_video35#2 A group of woman sings and plays a guitar
+tv2016train_video36#1 Jumping persons at an open-air festival are shown.
+tv2016train_video36#2 a crowd of people is jumping outdoors
+tv2016train_video38#1 A man is driving in car talking out something in English.
+tv2016train_video38#2 a man speaks in a car
+tv2016train_video39#1 A black man behind a lectern lifts a microphone and lets is fall down.
+tv2016train_video39#2 a black man drops a microphone
+tv2016train_video40#1 An asian man is crying at an asian woman somewhere outside.
+tv2016train_video40#2 an asian man cries
+tv2016train_video42#1 Two man is a room are moving their arms and something looking a boner inside their pants rhythmically.
+tv2016train_video42#2 2 men move their arms up and down
+tv2016train_video43#1 A person appears to jump through a wall of a truck inside of it where a group of people is sitting with Christmas outfits.
+tv2016train_video43#2 a man jumps into a truck on a street
+tv2016train_video44#1 A black man sitting outside with sunglasses is pointing somewhere and talking.
+tv2016train_video44#2 a black man speaks on a walkway
+tv2016train_video45#1 A cat is chewing on a plastic candy wrapper.
+tv2016train_video45#2 a black cat looks up to a hand
+tv2016train_video46#1 A boy is counting on a wooden chair aiming to play hide-and-seek.
+tv2016train_video46#2 a boy leans on a rocking chair and gets up
+tv2016train_video47#1 a spider comes out of its lair
+tv2016train_video47#2 A spider runs quickly out its hide-out after someone tried to grab a caterpillar with tweezers.
+tv2016train_video48#1 2 men shake their legs and arms
+tv2016train_video48#2 Two men are jumping in huge costumes inside a room.
+tv2016train_video49#1 a black man shakes his upper body
+tv2016train_video49#2 A black man with plush necklace is moving his head up and down.
+tv2016train_video50#1 an asian boy in uniform smiles and lifts his hand
+tv2016train_video50#2 A young asian man in a room says something into the microphone and smiles.
+tv2016train_video51#1 an asian man in a dark room moves his arms to the front
+tv2016train_video51#2 An asian young man and woman make strange gestures.
+tv2016train_video52#1 a man opens a barn door and walks out
+tv2016train_video52#2 A young man walks out of a foggy room.
+tv2016train_video54#1 an asian man speaks and leans his upper body back and forth
+tv2016train_video54#2 A young asian man inside a room makes a small jump, says something and laughs with high voice.
+tv2016train_video55#1 A basketball player stands behind a woman in a basketball arena  with his mouth open wide
+tv2016train_video55#2 A black male basketball player poses behind a female sport reporter with microphone.
+tv2016train_video56#1 an asian woman speaks and holds her hand besides her shoulders
+tv2016train_video56#2 Asian young woman says something with subtitles.
+tv2016train_video57#1 a black woman shakes her body and falls down the stairs in a stairway
+tv2016train_video57#2 2 girls start dancing and one tumbles down the stairs behind her.
+tv2016train_video58#1 2 asian woman lift their skirts on a walkway
+tv2016train_video58#2 Two asian girls are lifting their skirts on a pedestrian zone.
+tv2016train_video60#1 a man on a sofa covers his face with one hand
+tv2016train_video60#2 A man sitting on a white chair is saying something and laughing a bit holding his hand in front of his eyes.
+tv2016train_video61#1 a man speaks
+tv2016train_video61#2 A black man is saying things inside a room.
+tv2016train_video64#1 a raccoon flies and hits a man in the countryside
+tv2016train_video64#2 A raccoon is jumping behind a car towards a man in camouflage suit.
+tv2016train_video66#1 a black girl lays in a bad and makes gestures
+tv2016train_video66#2 A black young girl lying on a bad and speaking.
+tv2016train_video69#1 a woman in a red dress shakes her bottom
+tv2016train_video69#2 A woman in red dress inside a room is shaking her ass.
+tv2016train_video70#1 2 asian men swing their arms and hold each other
+tv2016train_video70#2 Two asian young man are singing something with high voice inside a room.
+tv2016train_video71#1 a woman looks into the camera and holds up 3 fingers
+tv2016train_video71#2 A woman sitting on a toilet wristles, farts and laughs.
+tv2016train_video72#1 a soccer player hits a ball and pass it to an other soccer player
+tv2016train_video72#2 A football player on a small artificial turf passes the ball to the right to another similar looking player two times.
+tv2016train_video73#1 A man on a bench is moving over to let another man sit down.
+tv2016train_video73#2 a man stands and sits down
+tv2016train_video74#1 A karatega inside a gym is jumping and kicking away several plates holden by other karategas.
+tv2016train_video74#2 a man jumps and turns in the air in a training area
+tv2016train_video75#1 A car hit a person on highway at daytime
+tv2016train_video75#2 a car hits a person on a highway
+tv2016train_video76#1 Football player kicks a ball with heel on a soccer field
+tv2016train_video76#2 a man is hitting a soccer ball with his heel
+tv2016train_video77#1 A shrew moves its tongue
+tv2016train_video77#2 a rodent is making a screaming noise
+tv2016train_video78#1 A group of football players ran down another player on a football field
+tv2016train_video78#2 a football player is tackling the ball carrier
+tv2016train_video79#1 Black sticks ascend up in a clear liquid in a cup
+tv2016train_video79#2 a cup of tea is being filled
+tv2016train_video80#1 A woman hits other persons
+tv2016train_video80#2 a man is stepping through a door
+tv2016train_video81#1 Woman in costume waves to the camera
+tv2016train_video81#2 a woman in a colorful dress is waving
+tv2016train_video82#1 A man washes the dishes with a gun in kitchen
+tv2016train_video82#2 a man in a kitchen is doing the dishes with a gun
+tv2016train_video83#1 An ape takes and eats banana in animal enclosure
+tv2016train_video83#2 a monkey in a zoo is eating a banana
+tv2016train_video84#1 Athletics make a choreography in gym
+tv2016train_video84#2 4 people are doing acrobatics in a sports hall
+tv2016train_video85#1 Two men hug each other in a tv show
+tv2016train_video85#2 2 men are hugging
+tv2016train_video86#1 Crowd of people celebrating outdoors
+tv2016train_video86#2 a group of people is performing on stage in a concert hall
+tv2016train_video87#1 A camera shows a comparison of a woman at stage and real
+tv2016train_video87#2 2 woman are filming themselves
+tv2016train_video88#1 A man describe a way outdoors
+tv2016train_video88#2 a man is giving directions to the driver of a car
+tv2016train_video89#1 Baby dances in living room
+tv2016train_video89#2 a baby is shaking its body
+tv2016train_video90#1 Soccer player scores on a soccer field
+tv2016train_video90#2 a man is scoring from a long distance in a soccer stadium
+tv2016train_video91#1 A man does a Diving Elbow Drop in wrestling
+tv2016train_video91#2 a male fighter is falling to the ground
+tv2016train_video92#1 A dog jumps in a living room
+tv2016train_video92#2 a dog is jumping on a cushion in a living room
+tv2016train_video93#1 A woman talks about a film in a room
+tv2016train_video93#2 a woman and a man are talking to each other
+tv2016train_video94#1 A person sings on a stage
+tv2016train_video94#2 a woman is performing on stage
+tv2016train_video95#1 group of people cry in a car
+tv2016train_video95#2 a group of people is singing inside a car
+tv2016train_video96#1 two man are singing on a stage
+tv2016train_video96#2 a man is holding a microphone
+tv2016train_video97#1 A man performs on a stage
+tv2016train_video97#2 a man is dancing on a stage
+tv2016train_video98#1 A woman dances and sings
+tv2016train_video98#2 a woman is dancing and singing
+tv2016train_video99#1 aerial footage of a large temple
+tv2016train_video99#2 aerial footage of a large monument at daytime
+tv2016train_video100#1 A group of people walking down the hallway
+tv2016train_video100#2 a group of people is walking through a door
+tv2016train_video101#1 A man takes off his shirt in a hall
+tv2016train_video101#2 a man is taking off his shirt
+tv2016train_video102#1 A man performs on a stage
+tv2016train_video102#2 a group of people is dancing on a stage
+tv2016train_video103#1 A cheer leading team is performing a choreography on stage
+tv2016train_video103#2 a group of people dancing on a stage
+tv2016train_video104#1 many women hug each other
+tv2016train_video104#2 people hugging each other
+tv2016train_video105#1 A man drinks and dances indoor
+tv2016train_video105#2 a man drinking from a glass
+tv2016train_video106#1 A baseball player threw a ball and violates another person on a baseball field
+tv2016train_video106#2 a man catching a baseball on a baseball field
+tv2016train_video107#1 A person waggling his behind in park
+tv2016train_video107#2 a woman carrying a purse
+tv2016train_video108#1 A man is surprised because of smoking a sparkler indoor
+tv2016train_video108#2 a man lighting a firecracker
+tv2016train_video109#1 Two men talk together in an interview
+tv2016train_video109#2 a man is smiling
+tv2016train_video110#1 A man eats and dances indoor
+tv2016train_video110#2 a man is holding a lunch box
+tv2016train_video111#1 A woman cries on a bed
+tv2016train_video111#2 a woman is talking
+tv2016train_video113#1 A man helps another man on a stage
+tv2016train_video113#2 a man carrying another man on his back
+tv2016train_video114#1 A man smiles in front of microphones
+tv2016train_video114#2 a man sitting in front of 2 microphones
+tv2016train_video115#1 A man is talking to themselves in car
+tv2016train_video115#2 a man sitting in a car
+tv2016train_video116#1 A soccer player feint another player on a soccer field
+tv2016train_video116#2 a man playing soccer in a soccer stadium
+tv2016train_video117#1 A woman wears many costumes outdoors
+tv2016train_video117#2 a group of woman wearing costumes
+tv2016train_video118#1 A crowd of people are celebrating in front of a castle at night
+tv2016train_video118#2 a large crowd of people is watching fireworks at night
+tv2016train_video119#1 A bird spread its wings outdoor
+tv2016train_video119#2 a black bird is spreading its wings
+tv2016train_video120#1 A woman phone in corridor
+tv2016train_video120#2 a woman holding her hands over her ears
+tv2016train_video121#1 Palm leaves move in the wind at coast at daytime
+tv2016train_video121#2 a group of palm trees is blowing in the wind
+tv2016train_video122#1 A woman talks to a man in kitchen
+tv2016train_video122#2 a woman wearing a purse
+tv2016train_video123#1 Basketball player dances on one spot in a stadium
+tv2016train_video123#2 a man is rapidly shaking his head
+tv2016train_video125#1 A woman dances in costume indoor
+tv2016train_video125#2 a man sitting on a couch in a living room
+tv2016train_video126#1 Two men powder each other indoor
+tv2016train_video126#2 2 men wearing makeup
+tv2016train_video127#1 A soccer player goals on a soccer field
+tv2016train_video127#2 a group of people playing a soccer match
+tv2016train_video128#1 Dog moves on its rear paws in kitchen
+tv2016train_video128#2 a dog standing upright in a kitchen
+tv2016train_video129#1 A young boy throws the dishes into the dishwasher in kitchen
+tv2016train_video129#2 2 children playing in a kitchen
+tv2016train_video130#1 Girl group perform on stage
+tv2016train_video130#2 a woman is dancing on a stage
+tv2016train_video132#1 A man jumps and is hanging from a tree in front of a house
+tv2016train_video132#2 a man is swinging on a wooden branch in his yard
+tv2016train_video133#1 A man tries to give something  to another man on stage
+tv2016train_video133#2 2 men are talking to each other
+tv2016train_video134#1 A soccer player goals by header on a soccer field
+tv2016train_video134#2 a group of people are playing a soccer match in a soccer stadium
+tv2016train_video135#1 A woman dances in front of a microphone
+tv2016train_video135#2 Sarah palin is giving a speech in front of U.S. flags
+tv2016train_video136#1 A man scream at another man in living room
+tv2016train_video136#2 a man sitting on a couch in a living room
+tv2016train_video137#1 A woman performs on a stage
+tv2016train_video137#2 a person is dancing on a large stage
+tv2016train_video138#1 A young boy dances in costume in living room
+tv2016train_video138#2 a boy is wearing a superman costume in a living room
+tv2016train_video139#1 A man makes noises in front of a bed
+tv2016train_video139#2 a man lying on a bed
+tv2016train_video140#1 A man waves
+tv2016train_video140#2 a man is waving
+tv2016train_video141#1 Two men jumps magical into a car on street
+tv2016train_video141#2 2 men are jumping into a car on the side of a road
+tv2016train_video142#1 A soccer player goals on a soccer field at training
+tv2016train_video142#2 a man is jumping on a turf field
+tv2016train_video143#1 A person transforms a leaf into money on the street at daytime
+tv2016train_video143#2 a man is holding a dollar bill
+tv2016train_video144#1 A band perform on a stage
+tv2016train_video144#2 a group of people is dancing on a stage
+tv2016train_video145#1 A baseball player throws a ball three times on a baseball field
+tv2016train_video145#2 a group of people is playing a baseball match in a baseball stadium
+tv2016train_video146#1 A basketball player scores in a gym
+tv2016train_video146#2 a man is doing a slam dunk in a sports hall
+tv2016train_video147#1 Eight dogs are sitting in drawers
+tv2016train_video147#2 a group of puppies is sitting on a drawer in a living room
+tv2016train_video148#1 Three men are talking to each other in bedroom
+tv2016train_video148#2 3 people are holding hands
+tv2016train_video149#1 A person drives a trolley
+tv2016train_video149#2 a man is driving a shopping cart
+tv2016train_video150#1 A group of men are talking to each other
+tv2016train_video150#2 a man is smiling
+tv2016train_video151#1 Two basketball player fail to score in a basketball stadium
+tv2016train_video151#2 a group of men is playing basketball in a sports hall
+tv2016train_video152#1 A tennis player dry oneself on tennis court
+tv2016train_video152#2 a man is wiping his face with a towel on a tennis court
+tv2016train_video153#1 A man bounces off the wall indoors
+tv2016train_video153#2 a person is jumping against a wall
+tv2016train_video154#1 A wet man looks at his hands in a swimming area
+tv2016train_video154#2 a man is wearing a muscle shirt
+tv2016train_video155#1 A man hits another man on an event
+tv2016train_video155#2 a group of people is sitting around a table
+tv2016train_video156#1 Two persons are kissing each other in a tv show
+tv2016train_video156#2 a woman and a man are kissing each other
+tv2016train_video157#1 A young boy moves his hands in a lounge
+tv2016train_video157#2 a group of young men is sitting on a bench
+tv2016train_video158#1 A man runs on a soccer field
+tv2016train_video158#2 a bald man is running on a turf field
+tv2016train_video159#1 A child in costume dances on street
+tv2016train_video159#2 a person is wearing a costume on the side of a road
+tv2016train_video160#1 A ferret scratches itself in an animal cage
+tv2016train_video160#2 an otter in a zoo is scratching itself
+tv2016train_video161#1 A hamster is brushing its hair behind its ear on a human hand
+tv2016train_video161#2 a rodent is scratching itself
+tv2016train_video162#1 A group of people perform and dance in front of and on a bed
+tv2016train_video162#2 a person is lying on a bed
+tv2016train_video164#1 Three men are singing in car
+tv2016train_video164#2 a man is sitting inside a car
+tv2016train_video165#1 A man is dancing crazy
+tv2016train_video165#2 a man is dancing in a small room
+tv2016train_video166#1 A man sings and moves his head indoors
+tv2016train_video166#2 a man wearing a gray sweatshirt
+tv2016train_video167#1 A young boy drives a bobby car and crashes outdoors
+tv2016train_video167#2 a boy is driving a tricycle on a narrow road
+tv2016train_video168#1 A man solves a Rubik cube magical by putting a handkerchief on it in study
+tv2016train_video168#2 a man is sitting in front of a desk
+tv2016train_video169#1 A man shows a box to a woman and feeds her behind a window
+tv2016train_video169#2 a man is wearing a black baseball cap
+tv2016train_video170#1 A woman is crying
+tv2016train_video170#2 a woman is holding a baby
+tv2016train_video171#1 A soccer player fouls another player on soccer field
+tv2016train_video171#2 a man is twisting his ankle on a turf field
+tv2016train_video172#1 A woman gets hit by a ball at daytime on a baseball field
+tv2016train_video172#2 a woman is getting hit by a ball on a baseball field
+tv2016train_video173#1 A person dives from the top of a house onto a stairway above the roofs of the city at daytime
+tv2016train_video173#2 a person is jumping from a roof
+tv2016train_video174#1 A person says something to a crowd of people on stage
+tv2016train_video174#2 a group of men is giving an acceptance speech on a stage
+tv2016train_video175#1 A band perform in a music video
+tv2016train_video175#2 a group of men is dancing on a stage
+tv2016train_video176#1 A woman and a man hug each other indoors and on the street
+tv2016train_video176#2 a woman and a man are hugging each other
+tv2016train_video177#1 A soccer player scores on a soccer field at daytime
+tv2016train_video177#2 a group of men is playing a soccer match in a soccer stadium
+tv2016train_video178#1 A soccer player fails to score even though the keeper isn't there on a soccer field at daytime
+tv2016train_video178#2 a man is holding a beer cup
+tv2016train_video179#1 A mirror falls onto a child in bedroom at daytime
+tv2016train_video179#2 a baby is standing in front of a mirror
+tv2016train_video180#1 A young boy leaves an elevator and tries to open a door indoors
+tv2016train_video180#2 a young man is leaving an elevator
+tv2016train_video181#1 A man raps a song next to a group of people
+tv2016train_video181#2 a man raps in front of an audience
+tv2016train_video182#1 A man says something into the microphone indoors
+tv2016train_video182#2 a person is holding a microphone
+tv2016train_video183#1 A man says something in a film
+tv2016train_video183#2 a man is wearing a black jacket
+tv2016train_video185#1 A man  does sports, sings and dances
+tv2016train_video185#2 a man is working out in a fitness center
+tv2016train_video186#1 A woman sings on a stage
+tv2016train_video186#2 a woman is singing in front of 2 large spotlights
+tv2016train_video187#1 A man drives with a self balanced board and falls down in living room
+tv2016train_video187#2 a man is driving a hoverboard in a corridor
+tv2016train_video188#1 A woman said that she is scared in a bed at night
+tv2016train_video188#2 a person is wearing glasses
+tv2016train_video189#1 A young boy laughs into a microphone on a parking lot at daytime
+tv2016train_video189#2 a boy is talking into a microphone
+tv2016train_video190#1 Two men are talking to each other on a stage
+tv2016train_video190#2 a person is talking into a microphone
+tv2016train_video191#1 A young boy gets a hit with boxing gloves and strikes back with the mere fists in a garage
+tv2016train_video191#2 2 boys are punching each other
+tv2016train_video192#1 Football players are dancing on a football field
+tv2016train_video192#2 Odell Beckham jr is dancing in the end zone of MetLife Stadium
+tv2016train_video193#1 A crowd of people walk across a big place in front of a historical building at daytime
+tv2016train_video193#2 a group of people is walking on a plaza
+tv2016train_video194#1 Four men are sitting on a couch indoors
+tv2016train_video194#2 a group of people is sitting on a couch
+tv2016train_video195#1 A kitten protects its food on a glass table at daytime
+tv2016train_video195#2 a cat is feeding on a glass table
+tv2016train_video196#1 A basketball player jumps over another player and scores in a basketball stadium
+tv2016train_video196#2 a man is doing a slam dunk in a sports hall
+tv2016train_video197#1 A young boy sings and dances naked indoor
+tv2016train_video197#2 a person is wearing headphones
+tv2016train_video198#1 Basketball players fail to score in a basketball stadium
+tv2016train_video198#2 a group of people is playing a basketball match in a sports hall
+tv2016train_video199#1 A young girl says something into the camera in front of a wall indoors
+tv2016train_video199#2 a girl is wearing a red shirt
+tv2016train_video200#1 Soccer players hug each other on a soccer field at daytime
+tv2016train_video200#2 2 men are hugging each other in a soccer stadium
