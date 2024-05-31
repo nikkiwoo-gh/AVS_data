@@ -2,6 +2,23 @@
 This repository is for AVS data sharing
 
 
+## Data organization format
+The folder is organized as following by default, for example for the collection **msrvtt10k**:
+
+./msrvtt10k
+
+./msrvtt10k/TextData
+
+./msrvtt10k/TextData/msrvtt10k.caption.txt
+
+./msrvtt10k/FeatureData
+
+./msrvtt10k/FeatureData/BLIP2_txtFeature+CLIP_ViT-B_32_txtFeature+imagebind_txtfeature
+
+./msrvtt10k/FeatureData/pyresnext-101_rbps13k,flatten0_output,os+pyresnet-152_imagenet11k,flatten0_output,os+CLIP_ViT-B_32_vidFeature+BLIP2_vidFeature+imagebind_vidfeature
+
+./msrvtt10k/FeatureData/mean_slowfast+mean_swintrans
+
 ## **TGIF dataset**
 
 ###Text Features
